@@ -17,7 +17,7 @@ To choose which policy to use, edit the Makefile’s define flag.  The default i
 There is an included test file, memory-test.c, that will test allocating and deallocating various sizes of memory.
 
 ## Usage
-‘
+```
 $ make
 $ ./bin/memory-test
-‘
+```
