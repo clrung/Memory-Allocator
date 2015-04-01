@@ -21,7 +21,7 @@ CFLAGS = -std=gnu99 -Wall -g -D [policy here] #-DDEBUG
 ## Usage
 There is an included test file, memory-test.c, that will test allocating and deallocating various sizes of memory.  To execute the test, open a terminal and input the following commands.
 ```
-# cd Memory-Allocator
+$ cd Memory-Allocator
 $ make
 $ ./bin/memory-test
 ```
